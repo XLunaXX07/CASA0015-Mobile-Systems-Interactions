@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553688880808",
+    "project_id": "walk-3c0ee",
+    "storage_bucket": "walk-3c0ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553688880808:android:9eede7c8236b112aa0949d",
+        "android_client_info": {
+          "package_name": "com.example.walk_guardian"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjLMXiAKMEdfysyRltY1r_4d7hKR6IVeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
