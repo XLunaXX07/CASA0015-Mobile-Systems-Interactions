@@ -25,7 +25,6 @@ README
 https://stackoverflow.com/questions/41436639/does-sharedpreferences-get-shaered-across-user  
 
 ## Build instructions  
-
 1. Download the android project from the below github link  
 [https://github.com/Aphisa0015-Mine-AndroidAPP](https://github.com/Aphisa0015-Mine-AndroidAPP)  
 3. Rename project to mine.project.  
