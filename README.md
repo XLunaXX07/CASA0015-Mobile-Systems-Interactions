@@ -26,10 +26,10 @@ https://stackoverflow.com/questions/41436639/does-sharedpreferences-get-shaered-
 
 ## Build instructions  
 1. Download the android project from the below github link  
-[https://github.com/Aphisa0015-Mine-AndroidAPP](https://github.com/Aphisa0015-Mine-AndroidAPP)  
-3. Rename project to mine.project.  
+[https://github.com/XLunaXX07/CASA0015-Mobile-Systems-Interactions](https://github.com/XLunaXX07/CASA0015-Mobile-Systems-Interactions)  
+3. Rename project to mine_project.  
 4. set your HERE SDK credentials to  
-[https://github.com/Abhinvestory/Mine-AndroidAPP/blob/main/MineProject/android/app/src/main/AndroidManifest.xml](https://github.com/Abhinvestory/Mine-AndroidAPP/blob/main/MineProject/android/app/src/main/AndroidManifest.xml)
+[https://github.com/XLunaXX07/CASA0015-Mobile-Systems-Interactions/android/app/src/main/AndroidManifest.xml](https://github.com/XLunaXX07/CASA0015-Mobile-Systems-Interactions/android/app/src/main/AndroidManifest.xml)
 6. Unzip the HERE SDK for flutter and copy inside plugins folder in your project.  
 Project: shared_numbers/are-sdk → mine_numbering/here_sdk  
 7. Listen the below dependencies for this project:  
