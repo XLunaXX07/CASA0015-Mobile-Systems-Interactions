@@ -65,11 +65,13 @@ Walk Guardian aims to support **solo travelers**, **young individuals**, **women
 
 ## 🧭 User Journey
 
-1. **Launch the app** – see current location via Google Maps.
-2. **Tap "Start Walking"** – journey begins, tracking distance and time.
-3. **Hold SOS** – if the user feels unsafe, they can send alerts instantly.
-4. **End walk** – view walk summary and emergency events in the History tab.
-5. **Set contacts & profile** – via dedicated screens in the app.
+1. **Launch the App** – open Walk Guardian on your device.
+2. **Create Account / Log In** – register a new account or log in using existing credentials.
+3. **Set Emergency Contacts** – add trusted contacts who will receive SOS alerts.
+4. **Tap "Start Walking"** – begin journey monitoring with real-time location tracking.
+5. **Hold SOS Button** – send an instant alert with live location if feeling unsafe.
+6. **End Walk** – complete the journey and stop tracking.
+7. **View Walk History** – check the summary of previous journeys and any emergency events.
 
 ---
 
