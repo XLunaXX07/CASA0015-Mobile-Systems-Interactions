@@ -26,8 +26,14 @@ Walk Guardian aims to support **solo travelers**, **young individuals**, **women
 - **📍 Journey Monitoring**  
   Logs walking routes and duration, highlighting any emergencies during the walk.
 
-- **🆘 Emergency SOS Button**  
-  A long-press SOS button sends location alerts to a pre-set emergency contact.
+- **🆘 Emergency Features**  
+  - **Manual SOS Activation**:  
+    Long-press the red SOS button to manually send location alerts to a pre-set emergency contact.  
+    ![](manualSOS.GIF)
+    
+  - **Fall Detection Alert**:  
+    Automatically detects sudden falls and sends an SOS alert if the user does not cancel within a countdown.  
+    ![](fallen.GIF)
 
 - **📇 Emergency Contacts Management**  
   Add, edit, or delete trusted contacts for emergency notifications.
