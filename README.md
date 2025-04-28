@@ -24,6 +24,19 @@
 
 ---
 
+## 🖼 App Screenshots
+
+| Login Screen | Map Screen |
+|:---:|:---:|
+| ![](login.png) | ![](map.png) |
+
+| Emergency Contact Screen | Walk History Screen |
+|:---:|:---:|
+| ![](emergencycontact.png) | ![](walkinghistory.png) |
+
+---
+
+
 ## 🧠 Technologies Used
 
 - **Framework**: Flutter (Dart)
