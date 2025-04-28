@@ -2,8 +2,9 @@
 
 ## 📱 Project Overview
 
-* Walk Guardian is a simple mobile application designed to help users feel safer when walking alone. It allows you to track your location in real time, keep a record of your journeys, and quickly send an alert to emergency contacts if needed. Built using Flutter, the app focuses on ease of use and essential safety features, providing a reliable way to stay connected and protected during solo walks, especially at night or in unfamiliar areas.
+*Walk Guardian* is a simple mobile application designed to help users feel safer when walking alone. It allows you to track your location in real time, keep a record of your journeys, and quickly send an alert to emergency contacts if needed. Built using Flutter, the app focuses on ease of use and essential safety features, providing a reliable way to stay connected and protected during solo walks, especially at night or in unfamiliar areas.
 
+Walk Guardian aims to support **solo travelers**, **young individuals**, **women walking alone at night**, and **elderly people** during independent outdoor activities.
 
 ## 📚 Table of Contents
 - [Project Overview](#-project-overview)
