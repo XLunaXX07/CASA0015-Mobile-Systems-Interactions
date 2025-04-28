@@ -58,7 +58,7 @@ Walk Guardian aims to support **solo travelers**, **young individuals**, **women
   - Firebase Firestore
 - **Device Sensors**:
   - GPS
-  - Motion (Accelerometer/Gyroscope – planned)
+  - Motion (Accelerometer，identifying user falls through threshold judgment)
 - **Supported Platforms**: Android & iOS
 
 ---
