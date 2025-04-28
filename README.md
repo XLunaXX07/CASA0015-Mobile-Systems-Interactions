@@ -45,13 +45,13 @@ Walk Guardian aims to support **solo travelers**, **young individuals**, **women
 
 ## 🖼 App Screenshots
 
-| Login Screen | Map Screen |
+| **Login Screen** | **Map Screen** |
 |:---:|:---:|
-| ![](login.png) | ![](map.png) |
+| <img src="login.png" width="250"/> | <img src="map.png" width="250"/> |
 
-| Emergency Contact Screen | Walk History Screen |
+| **Emergency Contact Screen** | **Walk History Screen** |
 |:---:|:---:|
-| ![](emergencycontact.png) | ![](walkinghistory.png) |
+| <img src="emergencycontact.png" width="250"/> | <img src="walkinghistory.png" width="250"/> |
 
 ---
 
