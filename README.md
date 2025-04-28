@@ -96,10 +96,17 @@ flutter run
 
 ## 🌟 Future Improvements
 
-- Implement automatic fall detection using device accelerometers.
-- Allow users to customize emergency messages.
-- Integrate wearable device support (e.g., smartwatch notifications).
-- Add night mode and improve UI animations for smoother experience.
+**Wearable Device Integration**  
+   Support integration with smartwatches (e.g., Apple Watch, Wear OS) to trigger emergency alerts directly from wearable devices.
+
+**Trusted Contact Real-Time Tracking**  
+   Enable trusted contacts to temporarily track the user’s live location after an SOS alert is triggered, enhancing emergency response.
+
+**Voice Command Activation**  
+   Implement voice-activated SOS triggers for situations where the user may not be able to operate the phone manually.
+
+**Enhanced User Interface (UI/UX)**  
+   Introduce a more customizable UI theme (e.g., light/dark mode, accessibility options) to accommodate different user preferences and improve usability.
 
 ---
 
