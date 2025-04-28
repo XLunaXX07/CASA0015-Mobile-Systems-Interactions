@@ -12,6 +12,8 @@
 - [Technologies Used](#-technologies-used)
 - [User Journey](#-user-journey)
 - [Installation](#-installation)
+- [Future Improvements](#-future-improvements)
+- [Contact](#-contact)
 
 ---
 
@@ -85,3 +87,24 @@ flutter run
 ```
 
 ✅ Now Walk Guardian should be running on your device!
+
+
+---
+
+## 🌟 Future Improvements
+
+- Implement automatic fall detection using device accelerometers.
+- Allow users to customize emergency messages.
+- Integrate wearable device support (e.g., smartwatch notifications).
+- Add night mode and improve UI animations for smoother experience.
+
+---
+
+## 📬 Contact
+
+If you have any questions, feedback, or collaboration ideas regarding **Walk Guardian**, feel free to reach out:
+
+- 📧 Email: ucfnyz3@ucl.ac.uk
+- 🐙 GitHub: [XLunaXX07](https://github.com/XLunaXX07)
+
+---
